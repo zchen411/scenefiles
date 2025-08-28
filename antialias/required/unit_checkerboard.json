@@ -130,7 +130,7 @@
                                 0.9
                             ],
                             "blend": 1.0,
-                            "textureFile": "textures/board.png",
+                            "textureFile": "required/textures/board.png",
                             "textureU": 300.0,
                             "textureV": 300.0
                         }
