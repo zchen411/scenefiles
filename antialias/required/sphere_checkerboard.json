@@ -101,9 +101,9 @@
                         45
                     ],
                     "scale": [
-                        4.0,
                         3.0,
-                        1.0
+                        3.0,
+                        3.0
                     ],
                     "translate": [
                         0.0,
@@ -131,8 +131,8 @@
                             ],
                             "blend": 1.0,
                             "textureFile": "required/textures/board.png",
-                            "textureU": 100.0,
-                            "textureV": 100.0
+                            "textureU": 150.0,
+                            "textureV": 75.0
                         }
                     ]
                 }
