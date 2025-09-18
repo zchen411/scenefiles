@@ -156,8 +156,8 @@
                             ],
                             "blend": 1.0,
                             "textureFile": "required/textures/board.png",
-                            "textureU": 100.0,
-                            "textureV": 100.0
+                            "textureU": 50.0,
+                            "textureV": 50.0
                         }
                     ]
                 }
